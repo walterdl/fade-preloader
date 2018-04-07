@@ -6,6 +6,18 @@
 
 Element that fade-in and fade-out covering the 100% of the viewport height and width. It's intended to use as preloader (or veil) that hide the underlying content in the first loading.
 
+## See on github
+https://github.com/walterdl/fade-preloader
+
+## Install
+
+      yarn add fade-preloader
+
+  -or-
+
+      npm install --save fade-prealoader
+
+
 ## Props
 | Name | Type | Required | Default | Desc
 |:--:|:--:|:--:|:--:|--|
