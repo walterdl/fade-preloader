@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import PropTypes from 'prop-types'
 
 // Own
-import "./FadePreloader.css"
+// import "./FadePreloader.css"
 
 function getTransitionEndEventName() {
   var t, el = document.createElement("fakeelement")

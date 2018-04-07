@@ -24,7 +24,7 @@ class Demo extends Component {
     return (
       <div>
         <FadePreloader show={this.state.showPreloader} />
-        <h1>fade-preloader Demo</h1>>
+        <h1>fade-preloader Demo</h1>
       </div>
     )
   }

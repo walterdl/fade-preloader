@@ -1,3 +1,3 @@
-import FadePreloader from "./FadePreloader"
+import FadePreloader from "./FadePreloader.Styled"
 
 export default FadePreloader
